@@ -167,12 +167,10 @@ typedef unsigned short int bfe_uchar16_t;
 //===========================================================================
 #define BFE_CONFIG_UNICODE_HANGUL  1
 #define BFE_CONFIG_UNICODE_SPECIAL 1
-#define BFE_CONFIG_UNICODE_HANJA   1
-
+#define BFE_CONFIG_UNICODE_HANJA   1 
 #define BFE_CONFIG_CP949_HANGUL    1
 #define BFE_CONFIG_CP949_HANJA     1
 #define BFE_CONFIG_CP949_SPECIAL   1
-
 #define BFE_CONFIG_CODE_CONVERSION 1
 
 
